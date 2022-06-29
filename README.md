@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=A3_puOwveYs
 
 ## Peer-graded Assignment: Show What You Know: Write and Explain A Program
 https://www.youtube.com/watch?v=oPGxyt3PwcE
+
+## Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan
+https://www.youtube.com/watch?v=XkRx42lMa_8
