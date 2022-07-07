@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=oPGxyt3PwcE
 
 ## Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan
 https://www.youtube.com/watch?v=XkRx42lMa_8
+
+## Peer-graded Assignment: Show What You Know: Write and Explain A Program (Octagon Mouse)
+https://www.youtube.com/watch?v=1sYyU188dt8
