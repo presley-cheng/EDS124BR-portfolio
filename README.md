@@ -1,14 +1,14 @@
 # EDS124BR-portfolio
 This repo is the teaching programming portfolio, which will store any resources intended to be shared within the EDS124BR assignments.
 
-## Peer-graded Assignment: Show What You Know: Explain Your Program
+## Week 1: Peer-graded Assignment: Show What You Know: Explain Your Program
 https://www.youtube.com/watch?v=A3_puOwveYs
 
-## Peer-graded Assignment: Show What You Know: Write and Explain A Program
+## Week 1: Peer-graded Assignment: Show What You Know: Write and Explain A Program
 https://www.youtube.com/watch?v=oPGxyt3PwcE
 
-## Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan
+## Week 1: Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan
 https://www.youtube.com/watch?v=XkRx42lMa_8
 
-## Peer-graded Assignment: Show What You Know: Write and Explain A Program (Octagon Mouse)
+## Week 2: Peer-graded Assignment: Show What You Know: Write and Explain A Program (Octagon Mouse)
 https://www.youtube.com/watch?v=1sYyU188dt8
