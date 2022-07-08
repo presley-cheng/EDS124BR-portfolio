@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=PohKYi61G5Y
 
 #### Peer-graded Assignment: Show What You Know: Write and Explain A Program (Drawing Shapes)
 https://www.youtube.com/watch?v=9mlJ1cpOf1c
+
+#### Peer-graded Assignment: Create a Parsons' Problem for Teaching
+https://www.youtube.com/watch?v=R12OkcDt_a4
