@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=1sYyU188dt8
 
 ## Week 2: Peer-graded Assignment: Show What You Know: Write and Explain A Program (Monkey Catch Banana)
 https://www.youtube.com/watch?v=PohKYi61G5Y
+
+## Week 2: Peer-graded Assignment: Show What You Know: Write and Explain A Program (Drawing Shapes)
+https://www.youtube.com/watch?v=9mlJ1cpOf1c
