@@ -27,3 +27,6 @@ https://www.youtube.com/watch?v=R12OkcDt_a4
 ## Week 3:
 #### Peer-graded Assignment: Show What You Know: Write and Explain A Program (Soccer Ball)
 https://www.youtube.com/watch?v=7DMdJxEcGcI
+
+#### Peer-graded Assignment: Show What You Know: Write and Explain A Program (If-Else)
+https://www.youtube.com/watch?v=EDL6U373Db0
