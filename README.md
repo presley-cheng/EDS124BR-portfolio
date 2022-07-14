@@ -23,3 +23,7 @@ https://www.youtube.com/watch?v=9mlJ1cpOf1c
 
 #### Peer-graded Assignment: Create a Parsons' Problem for Teaching
 https://www.youtube.com/watch?v=R12OkcDt_a4
+
+## Week 3:
+#### Peer-graded Assignment: Show What You Know: Write and Explain A Program (Soccer Ball)
+https://www.youtube.com/watch?v=7DMdJxEcGcI
