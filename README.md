@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=EDL6U373Db0
 ## Week 4:
 #### Peer-graded Assignment: Show What You Know: Write and Explain A Program (Penguin swim)
 https://www.youtube.com/watch?v=OKGRrs9BueI
+
+#### Peer-graded Assignment: Show What You Know: Write and Explain A Program (Search Treasure)
+https://www.youtube.com/watch?v=nwB79iSwHBI
